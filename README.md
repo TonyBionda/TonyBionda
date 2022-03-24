@@ -9,31 +9,6 @@
   </a>
 </p>
 
-<h2>Sommaire 📖</h2>
-
-<ul>
-    <li>
-      <a href="">À propos</a>
-      <ul>
-        <li>
-          <a href="">...de moi</a>
-        </li>
-        <li>
-          <a href="">...de mes compétences</a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="">Mes projets</a>
-    </li>
-    <li>
-      <a href="">Mes réseaux</a>
-    </li>
-    <li>
-      <a href="">Mes passions</a> 
-    </li>
-</ul>
-
 <h2>À propos 🙋‍♂️</h2>
 
 <h3>...de moi</h3>
@@ -43,8 +18,8 @@
 - 👨‍🎓 J'étudie en Master MIAGE à l'Université Paris-Saclay
 - 🔭 Au niveau de mes projets perso, je travaille actuellement sur [discord.devandtools.app](https://discord.devandtools.app)
 - 🌱 Je m'entraine actuellement sur [Next.js](https://nextjs.org)
-- 👯 Je dev en collaboration avec [LesCop1](https://www.google.com) sur certains gros projets
-- 📫 Vous pouvez me contacter via [mes réseaux](/#mes-reseaux)
+- 👯 Je dev en collaboration avec [LesCop1](https://github.com/Les-Cop1) sur certains gros projets
+- 📫 Vous pouvez me contacter via mes réseaux
 
 <h3>...de mes compétences</h3>
 
