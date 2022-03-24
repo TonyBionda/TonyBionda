@@ -27,7 +27,7 @@ Pas encore complété
 
 
 
-<h2>Mes projets préférés🛠️</h2>
+<h2>Mes projets préférés 🛠️</h2>
 
 Pas encore complété
 
