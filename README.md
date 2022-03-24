@@ -18,7 +18,7 @@
 - 👨‍🎓 J'étudie en Master MIAGE à l'Université Paris-Saclay
 - 🔭 Au niveau de mes projets perso, je travaille actuellement sur [discord.devandtools.app](https://discord.devandtools.app)
 - 🌱 Je m'entraine actuellement sur [Next.js](https://nextjs.org)
-- 👯 Je dev en collaboration avec [LesCop1](https://github.com/Les-Cop1) sur certains gros projets
+- 👯 Je dev en collaboration avec [LesCop1](https://github.com/Les-Cop1) sur certains projets
 - 📫 N'hésitez pas à me contacter via mes réseaux ! 📨
 
 <h3>...de mes compétences</h3>
