@@ -1,4 +1,5 @@
 <h1 align="center">Bonjour, moi c'est Tony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="https://www.cea.fr/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CEA_logo_nouveau.svg/1255px-CEA_logo_nouveau.svg.png" width=110 height=100>
@@ -9,6 +10,7 @@
 </p>
 
 <h2>Sommaire 📖</h2>
+
 <ul>
     <li>
       <a href="">À propos</a>
@@ -26,37 +28,59 @@
     </li>
     <li>
       <a href="">Mes réseaux</a>
-  </li>
+    </li>
+    <li>
+      <a href="">Mes passions</a> 
+    </li>
 </ul>
 
 <h2>À propos 🙋‍♂️</h2>
 
-<h2>Mes projets 🛠️</h2>
+<h3>...de moi</h3>
+
+- 🏷️ He/Him
+- 👨‍💼 Je suis actuellement développeur Python alternant au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/), Paris-Saclay
+- 👨‍🎓 J'étudie en Master MIAGE à l'Université Paris-Saclay
+- 🔭 Au niveau de mes projets perso, je travaille actuellement sur [discord.devandtools.app](https://discord.devandtools.app)
+- 🌱 Je m'entraine actuellement sur [Next.js](https://nextjs.org)
+- 👯 Je dev en collaboration avec [LesCop1](https://www.google.com) sur certains gros projets
+- 📫 Vous pouvez me contacter via [mes réseaux](/#mes-reseaux)
+
+<h3>...de mes compétences</h3>
+
+Pas encore complété
+
+
+
+<h2>Mes projets préférés🛠️</h2>
+
+Pas encore complété
+
+
 
 <h2>Mes réseaux 🌍</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0a66c2" alt="linkedin">
-  <img src="https://img.shields.io/badge/Discord-1c1b29?style=for-the-badge&logo=discord&labelColor=1c1b29">
+  <img src="https://img.shields.io/badge/tonybionda.univ@gmail.com-32a350?style=for-the-badge&logo=gmail&labelColor=f3b604" alt="gmail">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/node.js-141414?style=for-the-badge&logo=nodedotjs&labelColor=141414" alt="node.js">
+  <a href="https://www.linkedin.com/in/tonybionda/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0a66c2" alt="linkedin">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-1c1b29?style=for-the-badge&logo=discord&labelColor=1c1b29">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&labelColor=1da1f2&logoColor=white">
+  </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=F7F1ED&vCenter=true&multiline=true&width=450&height=100&lines=const+test+%3D+(a%2Cb)+%3D%3E+%7B;%20return+a+%2B+b;%7D)](https://git.io/typing-svg)
+<h2>Mes passions ✨</h2>
+
+Pas encore complété
 
 
 <!--
-**TonyBionda/TonyBionda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![typewriter](https://readme-typing-svg.herokuapp.com?font=fira+code&color=F7F1ED&vCenter=true&multiline=true&width=450&height=100&lines=const+test+%3D+(a%2Cb)+%3D%3E+%7B;%20return+a+%2B+b;%7D)](https://git.io/typing-svg)
 -->
