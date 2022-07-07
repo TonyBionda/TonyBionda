@@ -65,7 +65,7 @@
 </p>
 <p align="center">
   <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/PANDAS-130654?style=for-the-badge&logo=pandas&labelColor=black" alt="plotly">
+    <img src="https://img.shields.io/badge/PANDAS-130654?style=for-the-badge&logo=pandas&labelColor=black" alt="pandas">
   </a>
   <a href="https://numpy.org/">
     <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&labelColor=black" alt="numpy">
