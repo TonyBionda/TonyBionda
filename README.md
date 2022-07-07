@@ -135,5 +135,5 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=c9d1d9&multiline=true&width=550&height=75&lines=const+greetings+%3D+%22Merci+d'avoir+lu+ma+bio%22;%2F%2F+%F0%9F%98%89" alt="remerciements">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&color=c9d1d9&multiline=true&width=550&height=75&lines=const+greetings+%3D+%22Merci+d'avoir+lu+ma+bio%22;%2F%2F+Sign%C3%A9+%3A+TonyBionda+%F0%9F%98%89" alt="remerciements">
 </div>
