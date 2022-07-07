@@ -9,31 +9,36 @@
   </a>
 </p>
 
-<h2>À propos 🙋‍♂️</h2>
+## À propos 🙋‍♂️
 
-<h3>...de moi</h3>
+### ...de moi
 
 - 🏷️ He/Him
-- 👨‍💼 Je suis actuellement développeur Python alternant au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/), Paris-Saclay
-- 👨‍🎓 J'étudie en Master MIAGE à l'Université Paris-Saclay
-- 🔭 Au niveau de mes projets perso, je travaille actuellement sur [discord.devandtools.app](https://discord.devandtools.app)
-- 🌱 Je m'entraine actuellement sur [Next.js](https://nextjs.org)
+- 👨‍💼 Je suis actuellement développeur full stack alternant au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/), Paris-Saclay
+- 🧱 Là bas, j'ai travaillé sur différents projets comme :
+  - **iRecon**, un logiciel codé en Python de reconstruction d'image à partir d'un spectre d'une zone 2D, pour sensibiliser les étudiants sur l'utilisation de la reconstruction de Radon et de la transformée de Fourier dans le domaine de l'imagerie médicale (cf [scikit-image](https://scikit-image.org/docs/dev/auto_examples/transform/plot_radon_transform.html))
+  - **EVOC**, un simulateur de réacteur nucléaire à cœur ouvert en VR
+  - **ISRI** ou *Informatisation des sources radioactives internes (INSTN)*, un logiciel de gestion des sources radioactives pour les besoin de l'INSTN
+- 👨‍🎓 J'étudie actuellement en Master MIAGE à l'Université Paris-Saclay
+- 🔭 Au niveau de mes projets perso, je travaille actuellement sur [devandtools.fr](https://devandtools.fr)
+- 🌱 Pour cela, je m'entraine ces temps-ci sur [Next.js](https://nextjs.org)
 - 👯 Je dev en collaboration avec [LesCop1](https://github.com/Les-Cop1) sur certains projets
-- 📫 N'hésitez pas à me contacter via mes réseaux ! 📨
 
-<h3>...de mes compétences</h3>
+#### N'hésitez pas à me contacter via mes réseaux ! 📨
 
-Pas encore complété
-
-
-
-<h2>Mes projets préférés 🛠️</h2>
+### ...de mes compétences
 
 Pas encore complété
 
 
 
-<h2>Mes réseaux 🌍</h2>
+## Mes projets préférés 🛠️
+
+Pas encore complété
+
+
+
+## Mes réseaux 🌍
 
 <p align="center">
   <img src="https://img.shields.io/badge/tonybionda.univ@gmail.com-32a350?style=for-the-badge&logo=gmail&labelColor=f3b604" alt="gmail">
@@ -51,11 +56,10 @@ Pas encore complété
   </a>
 </p>
 
-<h2>Mes passions ✨</h2>
+## Mes passions ✨
+- 👨‍💻 Le code
+- 🎹 Le piano
 
-Pas encore complété
+---
 
-
-<!--
-[![typewriter](https://readme-typing-svg.herokuapp.com?font=fira+code&color=F7F1ED&vCenter=true&multiline=true&width=450&height=100&lines=const+test+%3D+(a%2Cb)+%3D%3E+%7B;%20return+a+%2B+b;%7D)](https://git.io/typing-svg)
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=B90C1A&multiline=true&width=550&height=75&lines=const+greetings+%3D+%22Merci+d'avoir+lu+ma+bio%22;%2F%2F+%F0%9F%98%89)](https://git.io/typing-svg)
