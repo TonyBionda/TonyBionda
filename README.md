@@ -19,12 +19,12 @@
   - **iRecon**, un logiciel codé en Python de reconstruction d'image à partir d'un spectre d'une zone 2D, pour sensibiliser les étudiants sur l'utilisation de la reconstruction de Radon et de la transformée de Fourier dans le domaine de l'imagerie médicale (cf [scikit-image](https://scikit-image.org/docs/dev/auto_examples/transform/plot_radon_transform.html))
   - **EVOC**, un simulateur de réacteur nucléaire à cœur ouvert en VR
   - **ISRI** ou *Informatisation des sources radioactives internes (INSTN)*, un logiciel de gestion des sources radioactives pour les besoin de l'INSTN
-- 👨‍🎓 J'étudie actuellement en Master MIAGE à l'Université Paris-Saclay
+- 👨‍🎓 J'étudie jusqu'en 2023 en Master MIAGE à l'Université Paris-Saclay
 - 🔭 Au niveau de mes projets perso, je travaille actuellement sur [devandtools.fr](https://devandtools.fr)
 - 🌱 Pour cela, je m'entraine ces temps-ci sur [Next.js](https://nextjs.org)
 - 👯 Je dev en collaboration avec [LesCop1](https://github.com/Les-Cop1) sur certains projets
 
-#### N'hésitez pas à me contacter via mes réseaux ! 📨
+#### N'hésitez pas à me contacter via [mes réseaux](#mes-réseaux-) ! 📨
 
 ### ...de mes compétences
 
@@ -48,11 +48,11 @@ Pas encore complété
   <a href="https://www.linkedin.com/in/tonybionda/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&labelColor=0a66c2" alt="linkedin">
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Discord-1c1b29?style=for-the-badge&logo=discord&labelColor=1c1b29">
+  <a href=":blank">
+    <img src="https://img.shields.io/badge/Discord-1c1b29?style=for-the-badge&logo=discord&labelColor=1c1b29" alt="discord">
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&labelColor=1da1f2&logoColor=white">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&labelColor=1da1f2&logoColor=white" alt="twitter">
   </a>
 </p>
 
