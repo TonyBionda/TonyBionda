@@ -18,7 +18,7 @@
 - 🧱 Là bas, j'ai travaillé sur différents projets comme :
   - **iRecon**, un logiciel codé en Python de reconstruction d'image à partir d'un spectre d'une zone 2D, pour sensibiliser les étudiants sur l'utilisation de la reconstruction de Radon et de la transformée de Fourier dans le domaine de l'imagerie médicale (cf [scikit-image](https://scikit-image.org/docs/dev/auto_examples/transform/plot_radon_transform.html))
   - **EVOC**, un simulateur de réacteur nucléaire à cœur ouvert en VR
-  - **ISRI** ou *Informatisation des sources radioactives internes (INSTN)*, un logiciel de gestion des sources radioactives pour les besoin de l'INSTN
+  - **ISRI** ou *Informatisation des sources radioactives internes (INSTN)*, un logiciel de gestion des sources radioactives pour les besoins de l'INSTN
 - 👨‍🎓 J'étudie jusqu'en 2023 en Master MIAGE à l'Université Paris-Saclay
 - 🔭 Au niveau de mes projets perso, je travaille actuellement sur [devandtools.fr](https://devandtools.fr)
 - 🌱 Pour cela, je m'entraine ces temps-ci sur [Next.js](https://nextjs.org)
