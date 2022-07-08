@@ -128,7 +128,7 @@
 </p>
 
 ## Mes passions ✨
-- 👨‍💻 Le code (construire un algo, comprendre et résoudre des problèmes, créer des projets avec notre propre "pâte")
+- 👨‍💻 La programmation (construire un algo, comprendre et résoudre des problèmes, créer des projets avec notre propre style)
 - 🎹 Le piano (et la musique savante en général, et également plus contemporaine avec le Studio Ghibli 🤩)
 - 🎮 Les jeux vidéo (qu'ils soient anciens avec ma première console SNES ou récents avec des jeux compétitifs modernes comme Overwatch !)
 
