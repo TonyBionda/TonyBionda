@@ -1,11 +1,9 @@
 <h1 align="center">Bonjour, moi c'est Tony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <p align="center">
   <a href="https://www.cea.fr/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CEA_logo_nouveau.svg/1255px-CEA_logo_nouveau.svg.png" width=110 height=100>
-  </a>
-  <a href="https://instn.cea.fr/">
-    <img src="https://www.ifp-school.com/sites/ifp-school.com/files/telechargements/images/partenaires/INSTN_logo.jpg" width=110 height=100>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CEA_logo_nouveau.svg/1255px-CEA_logo_nouveau.svg.png" width=200 height=180>
   </a>
 </p>
 
@@ -14,15 +12,10 @@
 ### ...de moi
 
 - 🏷️ He/Him
-- 👨‍💼 Je suis actuellement développeur full stack alternant au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/), Paris-Saclay
-- 🧱 Là bas, j'ai travaillé sur différents projets comme :
-  - **iRecon**, un logiciel codé en Python de reconstruction d'image à partir d'un spectre d'une zone 2D, pour sensibiliser les étudiants sur l'utilisation de la reconstruction de Radon et de la transformée de Fourier dans le domaine de l'imagerie médicale (cf [scikit-image](https://scikit-image.org/docs/dev/auto_examples/transform/plot_radon_transform.html))
-  - **EVOC**, un simulateur de réacteur nucléaire à cœur ouvert en VR
-  - **GEISER** ou *Gestion Informatique des sources et échantillons radioactifs*, une application web de gestion des sources radioactives pour les besoins de l'INSTN
-- 👨‍🎓 J'étudie jusqu'en 2023 en Master MIAGE à l'Université Paris-Saclay
-- 🔭 Au niveau de mes projets perso, j'ai travaillé jusqu'à récemment sur [dev&tools.fr](https://devandtools.fr), qui est en pause
-- 🌱 Pour cela, j'apprends ces temps-ci [Next.js](https://nextjs.org) et son écosystème
-- 👯 Je dev en collaboration avec [LesCop1](https://github.com/Les-Cop1) sur certains projets
+- 👨‍💼 Je suis actuellement Ingénieur chercheur au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/)
+- 👨‍🎓 J'ai étudié jusqu'en 2023 en Master MIAGE à l'Université Paris-Saclay (que j'ai obtenu avec la mention bien)
+- 🔭 Au niveau de mes projets perso, j'ai travaillé jusqu'à récemment sur [dev&tools.fr](https://devandtools.fr), qui est en pause, et sur Karaokey
+- 🌱 Pour cela, j'apprends ces temps-ci [Next.js](https://nextjs.org) et son écosystème, et des technos comme threejs/R3F
 
 #### N'hésitez pas à me contacter via [mes réseaux](#mes-réseaux-) ! 📨
 
