@@ -11,15 +11,22 @@
 ### ...de moi
 
 - 🏷️ He/Him
-- 👨‍💼 Je suis actuellement Ingénieur chercheur au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/)
-- 👨‍🎓 J'ai étudié jusqu'en 2023 en Master MIAGE à l'Université Paris-Saclay (que j'ai obtenu avec la mention bien)
-- 🔭 Au niveau de mes projets perso, j'ai travaillé jusqu'à récemment sur [dev&tools.fr](https://devandtools.fr), qui est en pause, et sur Karaokey
-- 🌱 Pour cela, j'apprends ces temps-ci [Next.js](https://nextjs.org) et son écosystème, et des technos comme threejs/R3F
+- 👨‍💼 Je suis Ingénieur chercheur au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/)
+- 👨‍🎓 J'ai obtenu mon diplôme de Master MIAGE Université Paris-Saclay en 2023
+- 🔭 Au niveau de mes projets perso, j'ai travaillé jusqu'à récemment sur Karaokey, un Guitar Hero like en three.js/R3F avec détection et génération automatique des onsets.
 
 #### N'hésitez pas à me contacter via [mes réseaux](#mes-réseaux-) ! 📨
 
 ### ...de mes compétences
 - #### Web :
+<p align="center">
+  <a href="https://fr.reactjs.org/">
+    <img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=react&labelColor=black" alt="reactjs">
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://img.shields.io/badge/TailwindCSS-030712?style=for-the-badge&logo=tailwindcss&labelColor=030712" alt="tailwindcss">
+  </a>
+</p>
 <p align="center">
    <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5">
     <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&labelColor=black" alt="html5">
@@ -29,17 +36,6 @@
   </a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript-f7e018?style=for-the-badge&logo=javascript&labelColor=black" alt="javascript">
-  </a>
-</p>
-<p align="center">
-  <a href="https://nodejs.org/fr/">
-    <img src="https://img.shields.io/badge/node.js-141414?style=for-the-badge&logo=nodedotjs&labelColor=black" alt="node.js">
-  </a>
-  <a href="https://fr.reactjs.org/">
-    <img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=react&labelColor=black" alt="reactjs">
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/NEXT.JS-fff?style=for-the-badge&logo=nextdotjs&labelColor=black" alt="nextjs">
   </a>
 </p>
 
@@ -88,19 +84,6 @@
 </p>
 
 
-## Mes projets préférés 🛠️
-- Complétés :
-  - Projets scolaires disponibles sur le Git
-- En cours :
-  - Le site de ressources et tutoriels pour développeurs [dev&tools.fr](devandtools.fr)
-  - KaraoKey, un jeu de rythme web en 3D (avec threejs, nextjs...)
-- Dans le futur :
-  - SimpleChords, un site pour pianiste !  
-  - Fake API
-  - Calculatrice textuelle
-  - On verra bien... 😉
-
-
 ## Mes réseaux 🌍
 
 <p align="center">
@@ -113,9 +96,9 @@
 </p>
 
 ## Mes passions ✨
-- 👨‍💻 La programmation (construire un algo, comprendre et résoudre des problèmes, créer des projets avec notre propre style)
-- 🎹 Le piano (et la musique savante en général, et également plus contemporaine avec le Studio Ghibli 🤩)
-- 🎮 Les jeux vidéo (qu'ils soient anciens avec ma première console SNES ou récents avec des jeux compétitifs modernes comme Overwatch !)
+- 👨‍💻 La programmation (construire un algo, comprendre et résoudre des problèmes, créer des projets avec son propre style)
+- 🎹 Le piano & le violon (et la musique savante en général, de Liszt jusqu'à Piazzolla 🤩)
+- 🎮 Les jeux vidéo (qu'ils soient anciens avec ma première console SNES ou récents)
 
 ---
 
