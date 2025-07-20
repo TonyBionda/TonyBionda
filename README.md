@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.cea.fr/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LOGO_CEA_ORIGINAL.svg" width=200 height=180>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/LOGO_CEA_ORIGINAL_2022.svg/langfr-330px-LOGO_CEA_ORIGINAL_2022.svg.png" width=200 height=180>
   </a>
 </p>
 
@@ -11,9 +11,9 @@
 ### ...de moi
 
 - 🏷️ He/Him
-- 👨‍💼 Je suis Ingénieur chercheur au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/)
+- 👨‍💼 Je suis Ingénieur chercheur Informatique au [Commissariat à l'énérgie atomique (CEA)](https://www.cea.fr/)
 - 👨‍🎓 J'ai obtenu mon diplôme de Master MIAGE Université Paris-Saclay en 2023
-- 🔭 Au niveau de mes projets perso, j'ai travaillé jusqu'à récemment sur Karaokey, un Guitar Hero like en three.js/R3F avec détection et génération automatique des onsets.
+- 🔭 Au niveau de mes projets perso, j'ai travaillé jusqu'à récemment sur Karaokey, un Guitar Hero like en three.js/R3F avec détection et génération automatique des onsets musicaux.
 
 #### N'hésitez pas à me contacter via [mes réseaux](#mes-réseaux-) ! 📨
 
